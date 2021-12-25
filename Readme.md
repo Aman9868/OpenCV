@@ -12,6 +12,7 @@
 11. Image Gradient-Edge Detection.
 12. Canny Edge Detection.
 13. Image Pyramind.
+14. Contour Detection.
 
 # Library
 ![image](https://user-images.githubusercontent.com/60923869/147379643-364571b5-df6c-4055-8396-70c55438eb4b.png)
